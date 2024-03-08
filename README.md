@@ -10,10 +10,16 @@ cmdui.py: This script provides a command-line interface for interacting with the
 
 gui.py: This script creates a graphical user interface for the car park system using the tkinter library. It offers a more user-friendly and interactive way to perform car park operations similar to those available in the CLI. This GUI version also uses CarPark.py for all its functionalities.
 
+
 Features of the Car Park Management System:
 
 Dynamic Parking Management: Tracks and manages parking spaces, handling car entries and exits.
+
 Hourly Rate Calculation: Calculates parking fees based on an hourly rate.
+
 Data Persistence: Maintains parking records in a CSV file, allowing data to persist across sessions.
+
 User Interfaces: Offers both CLI and GUI options, catering to different user preferences.
+
 Error Handling and Validations: Includes basic error handling and input validations for a smoother user experience.
+
