@@ -2,7 +2,7 @@ import csv
 import datetime
 import os
 
-CSV_FILE = '20021974_parking_records.csv'
+CSV_FILE = 'CarParkRecord.csv'
 HOURLY_RATE = 2
 MAX_PARKING_SPACES = 10
 
